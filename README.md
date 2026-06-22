@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Adarsh+Pandey;Data+%26+AI+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+%7C+Deep+Learning;Open+to+Data+and+AI+Opportunities" />
 </p>
-# Hi 👋, I'm Adarsh Pandey
+<h1 align="center">Hi 👋, I'm Adarsh Pandey</h1>
 
 ### Data & AI Enthusiast | Python | SQL | Power BI | Machine Learning | Deep Learning
 
