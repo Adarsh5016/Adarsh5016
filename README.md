@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi 👋, I'm Adarsh Pandey
 
-<!--
-**Adarsh5016/Adarsh5016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data & AI Enthusiast | Python | SQL | Power BI | Machine Learning | Deep Learning
 
-Here are some ideas to get you started:
+📍 Nagpur, Maharashtra, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 pandeyadarsh4976@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/adarsh-pandey-96a840256
+
+---
+
+## 🚀 About Me
+
+I am passionate about solving business problems using data, analytics, and AI.
+
+Currently exploring:
+
+- Data Analytics
+- Business Intelligence
+- Machine Learning
+- Deep Learning
+- Data Engineering
+- Python Development
+
+I enjoy transforming raw data into actionable insights and building intelligent solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- SQL
+
+### Analytics & BI
+- Power BI
+- Excel
+- Data Visualization
+
+### Data Science
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+
+### Machine Learning
+- Regression
+- Classification
+- Clustering
+- Feature Engineering
+
+### Deep Learning
+- Neural Networks
+- TensorFlow (Learning)
+- PyTorch (Learning)
+
+### Databases
+- MySQL
+- PostgreSQL
+
+---
+
+## 🎯 Career Interests
+
+- Data Analyst
+- Business Analyst
+- Product Analyst
+- Data Engineer
+- Machine Learning Engineer
+- AI Engineer
+- Python Developer
+- Business Intelligence Developer
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Machine Learning
+- Deep Learning
+- Data Engineering
+- Cloud Fundamentals
+
+---
+
+## 📫 Connect With Me
+
+- Email: pandeyadarsh4976@gmail.com
+- LinkedIn: https://www.linkedin.com/in/adarsh-pandey-96a840256
+
